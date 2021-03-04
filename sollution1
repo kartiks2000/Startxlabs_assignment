@@ -4,6 +4,9 @@ For example :  If number of seconds provided are 129 , then number of hours will
 Input :  Number of seconds.
 Output : “Hours = ‘number of hours’, minutes = ‘number of minutes’ , seconds = ‘number of seconds’ ”
 */
+//-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 var seconds,m,s,h;  // Vairiable declaration
 
