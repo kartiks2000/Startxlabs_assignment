@@ -3,17 +3,27 @@ Startxlabs_assignment
 
 
 1) Get number of hours, minutes and seconds from number of seconds.
+2) 
 For example :  If number of seconds provided are 129 , then number of hours will be 0 , minutes 2, seconds 9.
+
 Input :  Number of seconds.
+
 Output : “Hours = ‘number of hours’, minutes = ‘number of minutes’ , seconds = ‘number of seconds’ ”
 
+
+
 2) You are given  two numbers L and R, you have to find if XOR of all the numbers in range L to R (L,R both inclusive) is odd or even.
+3) 
 Input:
+
 The first line will contain T, number of testcases.
+
 Each testcase contains a single line of input, two integers L,R.
 
 Output:
+
 For each testcase, in the new line print "Odd" if the XOR in the range is odd, else print "Even".
+
 Sample Input:
   4
   1 4
